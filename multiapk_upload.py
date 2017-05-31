@@ -41,7 +41,7 @@ SERVICE_ACCOUNT_EMAIL = (
 
 # Declare command-line flags.
 argparser = argparse.ArgumentParser(add_help=False)
-# argparser.add_argument('package_name', nargs='?', default='com.peerwell',
+# argparser.add_argument('package_name', nargs='?', default='com.example.app',
 #                        help='The package name. Example: com.android.sample')
 argparser.add_argument('apks_folder',
                        nargs='?',
