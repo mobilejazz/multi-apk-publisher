@@ -6,7 +6,8 @@ Basically to simplify the publishing flow. When you have a multi-apk feature req
 
 ## How to use
 Generate your apks:
-./gradlew clean assembleRelease
+
+`./gradlew clean assembleRelease`
 
 If you have configured it like us, you'll have a folder e.g *archive* in your root project dir with all the apks in there. Or you can just move them manually. It's preferrable to have some structure like `V<versioncode>`. Here's our example:
 
