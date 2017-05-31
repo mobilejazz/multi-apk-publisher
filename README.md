@@ -40,7 +40,7 @@ After this, you'll be able to follow the install instructions from Google's scri
   >>>
   ```
 
-3. Create **service account** and link to the project. To do it, first go to Google Play console/All aplications/Settings/API Access. What you need is the key to that account. Download it in **.json** format and put in the same directory with this script. 
+3. Create **service account** and link to the project. To do it, first go to Google Play console/All aplications/Settings/API Access. What you need is the key to that account. Download it in **.json** format and put in the same directory with this script. See screenshots below.
 4. Rename the key to be `key.json`
 5. Edit the script to add your service account **email**, **app package id** and select the **track** you want to publish to.
 
@@ -54,3 +54,12 @@ Now you're ready to run the script and upload your apks.
 - [Google Play Developer API
 ](https://developers.google.com/android-publisher/) wher you can find the [libraries and samples](https://developers.google.com/android-publisher/libraries)
 
+## Setting up a service account
+
+![](imgs/1.png)
+![](imgs/2.png)
+![](imgs/3.png)
+![](imgs/4.png)
+![](imgs/5.png)
+![](imgs/6.png)
+![](imgs/7.png)
