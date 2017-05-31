@@ -49,7 +49,7 @@ Now you're ready to run the script and upload your apks.
 ## References
 - [Google developer guide to multi apk](https://developer.android.com/google/play/publishing/multiple-apks.html)
 
-- [Original script in Google's github](https://github.com/googlesamples/android-play-publisher-api/tree/master/v2/python)
+- [Original script in Google's github](https://github.com/googlesamples/android-play-publisher-api/tree/master/v2/python)
 
 - [Google Play Developer API
 ](https://developers.google.com/android-publisher/) wher you can find the [libraries and samples](https://developers.google.com/android-publisher/libraries)
